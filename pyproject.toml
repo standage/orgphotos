@@ -1,0 +1,9 @@
+[project]
+name = "orgphotos"
+version = "0.1.dev"
+description = "Family photo organizer"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[project.scripts]
+orgphotos = "orgphotos.cli:driver"

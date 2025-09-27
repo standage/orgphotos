@@ -1,0 +1,10 @@
+name: "orgphotos"
+dependencies:
+  - black=25.1
+  - pillow
+  - pillow-heif
+  - pytest
+  - pytest-cov
+  - python>=3.12
+  - rich-argparse
+  - tqdm
