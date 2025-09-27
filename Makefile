@@ -5,3 +5,6 @@ style:
 
 format:
 	black --line-length=99 $(PYFILES)
+
+test:
+	pytest
